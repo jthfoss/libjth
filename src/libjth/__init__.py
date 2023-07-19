@@ -12,5 +12,6 @@ except ImportError:
 start_all()
 
 Priority = enums.Priority
+Planets = enums.Planets
 
 end_all()
